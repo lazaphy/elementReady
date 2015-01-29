@@ -5,8 +5,8 @@ Description
 
 Demo
 ==========	
-elementReady('idString', function(){
-	console.log('function excuted!');
-});
+	elementReady('idString', function(){
+		console.log('function excuted!');
+	});
 		
 
